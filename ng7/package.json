@@ -12,7 +12,7 @@
     "deploy": "gh-pages -d build",
   },
   "private": true,
-  "homepage":"https://caseygirlyn.github.io/ng7/",
+  "homepage":"https://caseygirlyn.github.io/angular7/",
   "dependencies": {
     "@angular/animations": "~7.2.0",
     "@angular/common": "~7.2.0",
